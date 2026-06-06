@@ -2,7 +2,7 @@
 
 **Agent URL:** `https://supply-chain-agent-621017883579.us-central1.run.app`  
 **Toolbox URL:** `https://toolbox-scm-agent-621017883579.us-central1.run.app`  
-**Project:** `agentcampus` | **Region:** `us-central1`
+
 
 ---
 
